@@ -1,0 +1,5 @@
+Código-base da Aula 4.
+
+1. Importe este projeto no Eclipse.
+2. Execute br.edu.ceub.ds.aula04.app.Principal.
+3. Siga o roteiro para criar README.md, .gitignore, commits e melhoria funcional.
